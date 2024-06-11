@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "802833734524",
+    "project_id": "coinappp-1a707",
+    "storage_bucket": "coinappp-1a707.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802833734524:android:aed535cf4c4660dcdba2f9",
+        "android_client_info": {
+          "package_name": "com.example.coinpp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5q8d2_7ytvIdi8RiQV9WWYyVCU9RJtuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
